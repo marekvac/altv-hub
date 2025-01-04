@@ -1,0 +1,8 @@
+{
+  "title": "VZones",
+  "url": "https://github.com/marekvac/AltV-VZones",
+  "description": "A polyzone system, enabling the creation and management of various zone types, including 3D zones with polygonal base, 2D walls, and cylindrical zones (like checkpoints), each capable of triggering events like player entry and exit. Primarily designed for C# with limited JS support.",
+  "tags": ["csharp", "utility"],
+  "cover": "https://i.imgur.com/jdUr0zI.jpeg",
+  "cli": false
+}
